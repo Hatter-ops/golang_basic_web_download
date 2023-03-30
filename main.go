@@ -19,15 +19,7 @@ var BASE_URL string
 
 func main() {
 
-	BASE_URL = "https://seksitreffit.fi/treffit/member_login.php"
-
-	//BASE_URL = "https://www.kamera.seksitreffit.fi/"
-
-	//BASE_URL = "https://onedrive.live.com/about/en-gb/signin/"
-
-	//BASE_URL = "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"
-
-	//BASE_URL = "https://randomi.fi/"
+	BASE_URL = ""
 
 	make_dirs(BASE_URL)
 
