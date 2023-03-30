@@ -1,0 +1,1613 @@
+Hello world
+200 OK
+Others: 
+
+
+
+
+
+
+
+
+
+Others: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+Others: 
+
+Others: <html>
+Others: 
+
+Others: <head>
+Others: 
+
+
+Script Token: <script type="text/javascript" src="/js/AWE_kamera_pop-under.js">
+Script Token: </script>
+Others:  
+
+
+Others: <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+Others: 
+
+Others: <meta name="format-detection" content="telephone=no">
+Others: 
+
+
+Others: <!-- 
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+-->
+Others: 
+
+
+
+Others: <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+Others:      
+
+Others: <meta http-equiv="pics-label" content="(pics-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "https://www.seksitreffit.fi" r (na 1 nb 1 nc 1 nd 1 ne 1 nf 1 ng 1 nh 1 ni 1 vz 1 la 1 og 1 oh 1 ca 1))"/>
+Others: 	 
+
+
+Others: <title>
+Others: Seksitreffit Seksiseuran haku pk-seuraa tarjoavat KIELLETTY
+Others: </title>
+Others: 
+
+Others: <meta name="description" content="Seksi treffit .fi on Suomen suurin aikuisviihdesivusto ja interatiivinen seuranhakusivu. Seksitreffit.fi on nopea ja kuuma kanava seuran saamiSeksi.  pk-seuraa tarjoavat KIELLETTY Seksiseuran haku Seksitreffit  ">
+Others: 
+	
+	
+Style Token: <link rel="stylesheet" href="style.css" type="text/css"/>
+Others: 
+	
+Style Token: <link rel="stylesheet" href="VIP-style.css" type="text/css"/>
+Others: 
+
+
+Style Token: <link rel="stylesheet" type="text/css" href="/newheader/header_2012.css"/>
+Script Token: <script type="text/javascript" src="/newheader/header_2012.js">
+Script Token: </script>
+Others: 
+
+
+Others: <!--
+EUCOOKIE
+-->
+Others: 
+
+Style Token: <link rel="stylesheet" type="text/css" href="/cookie/cookieconsent.min.css"/>
+Others: 
+
+Script Token: <script src="/cookie/cookieconsent.min.js">
+Script Token: </script>
+Others: 
+
+Script Token: <script>
+Others: 
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#aa0000",
+      "text": "#ffdddd"
+    },
+    "button": {
+      "background": "#ff0000"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "- K&auml;ytt&auml;m&auml;ll&auml; sivustoamme hyv&auml;ksyt ev&auml;steiden k&auml;yt&ouml;n. Emme ker&auml;&auml; henkil&ouml;kohtaisia tietoja, emme luovuta mit&auml;&auml;n tietoja kolmansille osapuolille. <br />- Om du anv&auml;nder denna webbplats godk&auml;nner du anv&auml;ndandet av kakor. -- By browsing our site you agree to our use of cookies.<br />",
+    "dismiss": "HYV&Auml;KSYN",
+    "link": "K&auml;ytt&ouml;ehdot - Anv&auml;ndningsvillkor - Terms of Use",
+    "href": "https://www.seksitreffit.fi/kayttoehdot/"
+  }
+})});
+
+
+
+Script Token: </script>
+Others: 
+
+Others: <!--
+EUCOOKIE
+-->
+Others: 
+
+
+
+Others: </head>
+Others: 
+
+
+
+Others: <body onload="preloadImages();">
+Others:   
+
+	
+Others: <center>
+Others: 
+    
+
+Others: <table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="1024px" style="text-align:center;">
+Others: 
+	
+Others: <tr>
+Others: 
+		
+Others: <td valign="top" bgcolor="black" colspan="3" align="center">
+Others: 
+        
+
+
+
+
+
+Others: <a href="https://tier.loverevenue.com/lgtrack/NTEyOC4x?subaff=Full_Banner" target="_new">
+Others: <img src="/banners/1024x120_VM-het-15.gif" alt="Victoria Milan - Suomen suurin deittisivusto varatuille" width="1024px"/>
+Others: </a>
+Others: 
+
+
+Others: <!-- L awempire banner testing START -->
+Others: 
+
+        
+Others: </td>
+Others: 
+		
+
+	
+Others: </tr>
+Others:  
+
+	
+Others: <tr>
+Others:  
+	  
+Others: <td height="40" colspan="3" align="center" bgcolor="#000000" style="text-align:center;">
+Others: 
+
+	
+
+Others: <div class="yla_logo">
+Others: 
+	
+Others: <a href="/treffit">
+Others: 
+		
+Others: <img src="/newheader/logot/logo_treffit_160x18.jpg" width="170px" border="1"/>
+Others: 
+	
+Others: </a>
+Others: 
+
+
+Others: </div>
+Others:  
+
+
+Others: <div class="yla_linkit">
+Others: 
+	
+Others: <a href="/treffit" class="nh_staat" style="background-color:#990000;padding:1px;">
+Others: 
+		 TREFFI ILMOT 
+	
+Others: </a>
+Others: 
+	⋅⋅ 
+	
+Others: <a href="https://www.omakuva.org/omakuva/" class="nh_staat">
+Others: 
+		Omakuva
+	
+Others: </a>
+Others: 
+	⋅⋅
+
+	
+Others: <a href="/puhelinseksi.php" class="nh_staat" style="background-color:#cc0000;padding:1px;">
+Others:  Puhelinseksi 
+Others: </a>
+Others:  ⋅⋅ 
+	
+Others: <a href="/online-chat.php" class="nh_staat" style="background-color:#cc5490;padding:1px;">
+Others:  SeksiChat 
+Others: </a>
+Others:  ⋅⋅ 
+	
+Others: <a href="/suomilivechat.php" class="nh_staat" style="background-color:#cc0000;padding:1px;">
+Others:  Webkamera 
+Others: </a>
+Others:  ⋅⋅ 
+	
+Others: <a href="https://www.seksisaitti.net/" target="_blank" class="nh_staat" style="background-color:#cc5490;padding:1px;color:#ffffff;">
+Others:  Seksikeskustelu 
+Others: </a>
+Others: 
+
+	
+Others: <br/>
+Others: <br/>
+Others: 
+
+	
+Others: <a href="https://www.seksitreffit.net/?age=18" class="nh_staat" style="background-color:#336699;padding:1px;">
+Others:  Ostovideo 
+Others: </a>
+Others:  ⋅⋅ 
+	
+Others: <a href="https://www.aikuisvideo.com/video/" class="nh_staat" style="background-color:#336699;padding:1px;">
+Others:  Vuokravideo 
+Others: </a>
+Others:  ⋅⋅ 
+	
+Others: <a href="http://www.nakupalat.net/galleria/" class="nh_staat">
+Others: NakuPalat
+Others: </a>
+Others:  ⋅⋅ 
+	
+Others: <a href="https://www.huippukiva.fi/?dc=streffit" target="_blank" class="nh_staat" style="background-color:#7a4282;padding:1px;">
+Others:  LELUT 
+Others: </a>
+Others:  ⋅⋅
+	
+Others: <a href="http://theater.aebn.net/dispatcher/frontDoor?&theaterId=44660" class="nh_staat">
+Others: Ulkomaiset
+Others: </a>
+Others:  ⋅⋅ 
+	
+Others: <a href="http://www.suomipoke.com" target="_blank" class="nh_staat" style="background-color:#009900;padding:1px;">
+Others:  ILMAISET trailerit 
+Others: </a>
+Others:  
+
+Others: </div>
+Others: 
+
+
+
+Others: <div class="h2013pos">
+Others: 
+
+
+Others: <div class="m-col-10">
+Others: 
+
+Others: <ul class="ul_1">
+Others:         
+    
+Others: <li class="dd">
+Others: 
+            
+Others: <a href="javascript:toggle_vis_class('1');" class="dd1 muut_linkit">
+Others:  -> Muut linkit <- 
+Others: </a>
+Others: 
+                
+Others: <div id="1" class="ul_2 hidden">
+Others: 
+
+
+Others: <table border="0" cellspacing="1" cellpadding="4" bgcolor="#666666">
+Others: 
+  
+Others: <tr>
+Others: 
+  
+
+Others: <td bgcolor="#000000">
+Others: <a href="http://www.mrlothar.fi/" target="_blank" class="dda">
+Others: Mallihaku Mr Lothar
+Others: </a>
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: <a href="https://www.seksitreffit.fi/index_sisaan.php" class="dda">
+Others: Etusivu
+Others: </a>
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: <a href="https://www.seksitreffit.fi/ohjeet-ilmoittajille.php" class="dda">
+Others: Ohjeet ilmoittajille
+Others: </a>
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: <a href="https://www.seksitreffit.fi/livechat.php" class="dda">
+Others: Livekamerat (ulkom)
+Others: </a>
+Others: </td>
+Others:   
+    
+Others: </tr>
+Others: 
+    
+Others: <tr>
+Others: 
+    
+
+Others: <td bgcolor="#000000">
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others:  
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others:  
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: <a href="http://www.webkamera.fi/" class="dda">
+Others: Webkamera.fi (Suomi)
+Others: </a>
+Others:  
+Others: </td>
+Others: 
+    
+Others: </tr>
+Others: 
+    
+Others: <tr>
+Others: 
+
+
+Others: <td bgcolor="#000000">
+Others: <a href="http://www.susiwolf.fi/malliksi.php" target="_blank" class="dda">
+Others: Mallihaku SusiWolf
+Others: </a>
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others:  
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: <a href="https://www.seksitreffit.fi/online-chat.php" target="_blank" class="dda">
+Others: Online SeksiChat
+Others: </a>
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: <a href="https://www.seksitreffit.fi/pokechat.php" class="dda">
+Others: Tekstiviestichat kuvilla
+Others: </a>
+Others: </td>
+Others:   
+	
+Others: </tr>
+Others: 
+    
+Others: <tr>
+Others: 
+
+
+Others: <td bgcolor="#000000">
+Others: <a href="https://www.seksitreffit.net/omavideo/" class="dda">
+Others: Ohjeet oman videon tekoon
+Others: </a>
+Others:  
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others:  
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others:  
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: <a href="https://www.seksitreffit.fi/videopuhelu.php" class="dda">
+Others: Videopuhelu
+Others: </a>
+Others: </td>
+Others:   
+	
+Others: </tr>
+Others: 
+    
+Others: <tr>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: <a href="http://www.nakupalat.net/galleria/?p=news&id=3" class="dda">
+Others: Ansaitse videoillasi
+Others: </a>
+Others:  
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others:  
+Others: </a>
+Others:  
+Others: </td>
+Others: 
+
+Others: <td bgcolor="#000000">
+Others: <a href="https://www.seksitreffit.fi/puhelinseksi-09.php" class="dda">
+Others: Puh.sex 09 suuntanumeroon
+Others: </a>
+Others: </td>
+Others: 
+
+
+Others: </tr>
+Others: 
+
+Others: </table>
+Others: 
+
+
+
+	    
+Others: </div>
+Others: 
+    
+Others: </li>
+Others: 
+
+Others: </ul>
+Others:     
+
+Others: </div>
+Others: 
+
+
+Others: </div>
+Others: 
+
+
+      
+Others: </td>
+Others: 
+  
+Others: </tr>
+Others: 
+
+
+
+Others: </table>
+Others:  
+
+	
+
+
+		
+
+Others: <table border="0" cellpadding="0" cellspacing="0" width="1024" class="header_table">
+Others:  
+	
+Others: <tr>
+Others:  
+
+
+
+Others: <!-- koko sivun vasen palsta -->
+Others: 
+
+
+
+
+Others: <td valign="TOP" width="165" class="header_td">
+Others: 
+
+    
+	
+	
+Others: <div style="width:150px; margin-left: 10px; margin-right: 10px;">
+Others: 
+
+
+
+
+	
+Others: <h3 style="font-size:12px; margin-left: 10px; margin-right: 10px; margin-top: 6px; margin-bottom: 0px; ">
+Others: OHJEET:
+Others: </h3>
+Others: 
+
+	- 
+Others: <a href="../ilmoituspoistetaan.php" class="kortti">
+Others: SÄÄNNÖT - RULES
+Others: </a>
+Others: <br/>
+Others: 
+	- 
+Others: <a href="../ohjeet-ilmoittajille.php" class="kortti">
+Others: OHJEET
+Others: </a>
+Others: <br>
+Others:  
+	- 
+Others: <a href="../aanestaminen.php" class="kortti">
+Others: Feikit ja äänestys
+Others: </a>
+Others:  
+Others: <br/>
+Others: 
+	- 
+Others: <a href="../seksiseuraa.php" class="kortti">
+Others: Hyvä seksiseuraa-ilmoitus
+Others: </a>
+Others:  
+Others: <br/>
+Others: 
+	- 
+Others: <a href="../seksiopas.php" class="kortti">
+Others: Herrasmies-opas
+Others: </a>
+Others: <br>
+Others: <br>
+Others: 
+	
+
+		
+    
+	
+Others: </div>
+Others: 
+
+
+Others: <br/>
+Others: -81-
+Others: <br/>
+Others: 
+    
+
+	
+Others: <img src="kuvat/transparent.gif" width="160" height="1">
+Others: 
+
+
+Others: </td>
+Others: 
+
+
+Others: <td valign="TOP">
+Others: 
+
+
+Others: <!-- PAAPALSTAN YLAREUNA: TAstA alkaa koko ohjelma-->
+Others: 
+
+
+Others: <!-- header.inc END -->
+Others: 
+
+
+Others: <div style="height: 5px;" ;="">
+Others:  
+Others: </div>
+Others: <!-- ## NAVIGATION START paalinkit -> liput ## -->
+Others: 
+
+
+Others: <div style="height: 10px;">
+Others:  
+Others: </div>
+Others: 
+
+
+
+Others: <!-- Table 1 open -->
+Others: 
+
+
+Others: <table width="100%" border="0" cellpadding="0" cellspacing="0">
+Others: 
+
+Others: <tr>
+Others: 
+	
+Others: <td width="100%" align="left">
+Others: 
+
+
+
+  	
+	
+
+
+
+
+Others: <!-- Table 2 open -->
+Others: 
+
+
+Others: <table border="0" cellspacing="1" cellpadding="1">
+Others:  
+	
+Others: <tr valign="TOP">
+Others: 
+	
+Others: <td bgcolor="orange">
+Others: 
+                
+
+Others: <!-- Table 3 open -->
+Others: 
+
+	
+Others: <table border="0" cellspacing="0" cellpadding="3">
+Others:  
+		
+Others: <tr valign="TOP">
+Others: 
+		
+Others: <td valign="TOP" class="navig_valikko_td_e">
+Others:  
+Others: <a href="/treffit/index.php" class="navig_valikko2">
+Others: ETUSIVU
+Others: </a>
+Others:   
+		
+Others: </td>
+Others: 
+		
+Others: <td valign="TOP" class="navig_valikko_td">
+Others:  
+Others: <a href="/treffit/picturebrowse.php" class="navig_valikko2">
+Others: Kuvat
+Others: </a>
+Others:  · 
+
+
+Others: <a href="/treffit/latestads.php?aidot=0" class="navig_valikko2">
+Others: Uudet
+Others: </a>
+Others:  ·                         
+		
+Others: <a href="/treffit/mostviewed.php?kid=" class="navig_valikko2">
+Others: Katsotuin
+Others: </a>
+Others:  · 
+
+
+Others: <!-- 		<A HREF="/treffit/best_rated.php?kid=" class="navig_valikko2">Paras</A> ·  -->
+Others: 
+
+		
+Others: <a href="/treffit/fav.php" class="navig_valikko2">
+Others: Suosikit
+Others: </a>
+Others:  · 
+		 
+Others: <a href="/treffit/search.php" class="navig_valikko2">
+Others: Etsi
+Others: </a>
+Others:  
+Others: </td>
+Others: 
+		
+Others: </tr>
+Others: 
+	
+Others: </table>
+Others: 
+
+
+Others: <!-- Table 3 closed -->
+Others: 
+
+	
+Others: </td>
+Others: 		
+	
+Others: </tr>
+Others: 
+
+Others: </table>
+Others: 
+
+Others: <!-- Table 2 closed -->
+Others: 
+
+
+
+
+Others: </td>
+Others: <td nowrap="nowrap" valign="top" align="right">
+Others: 
+
+
+
+	
+Others: <!-- Table 3 open -->
+Others: 
+    
+Others: <table border="0" cellspacing="3" cellpadding="4">
+Others: 
+    
+Others: <tr>
+Others: 
+
+	
+Others: <td nowrap="nowrap" valign="top" align="center" class="login_ruutu">
+Others: 
+
+
+
+
+
+
+Others: <a href="/treffit/register.php" class="login_valikko">
+Others: REKISTERÖIDY
+Others: </a>
+Others:  
+
+
+Others: </td>
+Others: <td nowrap="nowrap" valign="top" align="center" class="login_ruutu">
+Others:  	
+
+
+
+Others: <a href="/treffit/member.php" class="login_valikko">
+Others: UUSI ILMO
+Others: </a>
+Others: </td>
+Others: <td nowrap="nowrap" valign="top" align="center" class="login_ruutu">
+Others: <a href="/treffit/member_login.php" class="login_valikko">
+Others: KIRJAUDU
+Others: </a>
+Others: 
+        
+Others: </td>
+Others:  
+    
+  	
+Others: </tr>
+Others: 
+	
+Others: </table>
+Others: 
+
+		
+Others: <!-- Table 3 closed -->
+Others: 
+				
+
+Others: </td>
+Others: 
+
+Others: </tr>
+Others: 
+
+Others: </table>
+Others: 
+
+Others: <!-- Table 2 closed -->
+Others: 
+
+
+Others: <div style="height: 5px;">
+Others:  
+Others: </div>
+Others: 
+
+
+
+Others: <!-- Table 2 open -->
+Others: 
+
+
+Others: <!-- alempi taulu rivi pääotsikko, selite ja liput -->
+Others: 
+
+
+Others: <table border="0" width="100%" cellspacing="0" cellpadding="0">
+Others: 
+
+Others: <tr>
+Others: 
+    
+Others: <td valign="middle" align="left">
+Others: 
+
+  
+
+Others: <div style="color:white; margin-left:10px;" class="paa_valikko1">
+Others: Seksitreffit - Suomen rohkein seksiseuran haku
+Others: </div>
+Others:     
+  
+
+  
+Others: </td>
+Others: 
+
+  
+Others: <td valign="top" align="right">
+Others: 
+	
+Others: <!-- flags_frontpage -->
+Others: 
+
+Others: <table border="0" cellspacing="0" cellpadding="4">
+Others: 
+        
+Others: <tr>
+Others: 
+
+
+Others: <td valign="BOTTOM">
+Others: <a href="change_lang.php">
+Others: CHANGE LANGUAGE
+Others: </a>
+Others: </td>
+Others:          
+Others: <!--  <td VALIGN="BOTTOM"><img border="0" src="layout_images/spacerbig.gif" width="25" height="10"><br /> <br /></td> -->
+Others:  
+
+          
+Others: <td valign="BOTTOM">
+Others: <a href="/treffit/change_lang.php?setlang=swe&la=swe">
+Others: <img border="0" src="layout_images/flag_swedish.gif" vspace="3" hspace="4" alt="[ Swedish ]" height="30"/>
+Others: </a>
+Others: </td>
+Others: 
+
+          
+Others: <td valign="BOTTOM">
+Others: <a href="/treffit/change_lang.php?setlang=eng&la=eng">
+Others: <img border="0" src="layout_images/flag_english.gif" vspace="3" hspace="4" alt="[ English ]" height="30"/>
+Others: </a>
+Others: </td>
+Others: 
+
+
+Others: <td valign="BOTTOM">
+Others: <a href="/treffit/change_lang.php?setlang=fin&la=fin">
+Others: <img border="0" src="layout_images/flag_finnish.gif" vspace="3" hspace="4" alt="[ Finnish ]" height="30"/>
+Others: </a>
+Others: </td>
+Others: 
+        
+Others: </tr>
+Others: 
+
+Others: </table>
+Others: 
+  
+Others: </td>
+Others: 
+				
+
+Others: </tr>
+Others: 
+
+Others: </table>
+Others: 
+
+
+Others: <!-- Table 2 closed -->
+Others: 
+
+			
+
+
+Others: <div style="height: 10px;">
+Others:  
+Others: </div>
+Others: 
+
+
+Others: <!-- ## NAVIGATION END ## -->
+Others: 
+ 
+Others: <p/>
+Others: 
+					
+Others: <table border="0" width="100%" cellspacing="0" cellpadding="8">
+Others: 
+						
+Others: <tr>
+Others: 
+							
+Others: <td align="left" valign="top">
+Others: <div style="font-weight:bold; color:#cc0000; background-color: white; padding: 10px; border-color:#000000;border-width:3px;border-style:solid;">
+Others: ET PYSTY KIRJAUTUMAAN SISÄÄN KOSKA: 
+Others: <br/>
+Others: <br/>
+Others: nettiselaimesi ei VIELÄ hyväksynyt evästeitä.
+
+Others: <br/>
+Others: <br/>
+Others: Lataa sivu uudelleen 
+Others: <a href="member_login.php" class="pk_huom">
+Others: KLIKKAAMALLA TÄSTÄ
+Others: </a>
+Others: <br/>
+Others: <br/>
+Others: 
+Tai tästä 
+Others: <a href="member.php" class="pk_huom">
+Others: KLIKKAAMALLA TÄSTÄ
+Others: </a>
+Others: <br/>
+Others: <br/>
+Others: 
+Jos ei auttanut katso nettiselaimen asetuksista että evästeet (=cookies) hyväksytään. Jos et ymmärrä mitä tuo tarkoittaa kysy ylläpidolta webmaster@seksitreffit.fi
+Others: </div>
+Others: <h2>
+Others: KIRJAUDU
+Others: </h2>
+Others:  
+								
+Others: <p>
+Others: Muista että maksullisen seksiseuran ilmoittaminen on kielletty ja sellaiset ilmoitukset poistetaan.
+Others: </p>
+Others: <p>
+Others: Olen lukenut 
+Others: <span class="orange" style="text-decoration:underline;">
+Others: <a href="https://www.seksitreffit.fi/ilmoituspoistetaan.php" target="_blank">
+Others: ilmoittajan ohjeet.
+Others: </a>
+Others: </span>
+Others:  ja  
+Others: <span class="orange" style="text-decoration:underline;">
+Others: <a href="https://www.seksitreffit.fi/kayttoehdot/" target="_blank">
+Others: Käyttöehdot ja henkilörekisteri
+Others: </a>
+Others: </span>
+Others:  ja lisään ilmoitukseni omalla vastuullani. Vakuutan että olen vähintään 18-vuotias ja että lähettämäni valokuvat esittävät vain ilmoittajaa tai ilmoittajia, etten hae alaikäisten seuraa, että jätän vain omia ilmoituksiani, en tarjoa maksullista seksiseuraa tai edistä sellaisen välittämistä.
+Others: </p>
+Others:  
+								
+Others: <form method="post" action="/treffit/member_login.php">
+Others: 
+									
+Others: <table border="0" cellspacing="0" cellpadding="5">
+Others: 
+										
+Others: <tr class="darker_BG">
+Others: 
+											
+Others: <td>
+Others: Käyttäjätunnus
+Others: <br/>
+Others: =sähköpostiosoite
+Others: <br/>
+Others: jolla olet rekisteröitynyt
+Others: </td>
+Others: 
+											
+Others: <td>
+Others: 
+												
+Others: <input type="text" class="txt" name="username" value="" maxlength="60" size="35"/>
+Others: 
+											
+Others: </td>
+Others: 
+										
+Others: </tr>
+Others: 
+										
+Others: <tr class="lighter_BG">
+Others: 
+											
+Others: <td>
+Others: Salasana
+Others: </td>
+Others: 
+											
+Others: <td>
+Others: 
+												
+Others: <input type="password" class="txt" name="password" value="" maxlength="50" size="35"/>
+Others: <br/>
+Others: 
+											
+Others: </td>
+Others: 
+										
+Others: </tr>
+Others: 
+										
+Others: <tr>
+Others: 
+											
+Others: <td colspan="2">
+Others: 
+												 
+Others: <input type="submit" name="submit" value="KIRJAUDU"/>
+Others: 
+											
+Others: </td>
+Others: 
+										
+Others: </tr>
+Others: 
+										
+Others: <tr>
+Others: 
+											
+Others: <td colspan="2" height="10">
+Others: </td>
+Others: 
+										
+Others: </tr>
+Others: 
+										
+Others: <tr>
+Others: 
+											
+Others: <td colspan="2">
+Others: 
+												
+Others: <p>
+Others: <a href="register.php" class="orange">
+Others: <img src="layout_images/pointer.gif" border="0">
+Others: Uusi käyttäjä? Rekisteröidy ensin tästä.
+Others: </a>
+Others: </p>
+Others: 
+											
+Others: </td>
+Others: 
+										
+Others: </tr>
+Others: 
+									
+Others: </table>
+Others: 
+								
+Others: </form>
+Others: 
+							
+Others: </td>
+Others: 
+							
+Others: <td valign="top" align="left" width="50%">
+Others: 
+								
+Others: <table border="0" bgcolor="#dddddd" cellspacing="0" cellpadding="10">
+Others: 
+									
+Others: <tr>
+Others: 
+										
+Others: <td width="100%" class="dark">
+Others: <b>
+Others: Salasana unohtunut?
+Others: </b>
+Others: <br/>
+Others: Anna sähköpostiosoitteesi (=käyttäjätunnus), niin lähetämme uuden salasanan!
+											
+Others: <form method="post" action="/treffit/forgot.php">
+Others: 
+												
+Others: <p class="dark">
+Others: 
+													Sähköpostisi (pakoll.) : 
+Others: <br/>
+Others: <br/>
+Others: 
+													
+Others: <input type="text" name="email" class="txt" maxlength="60" size="30"/>
+Others: <br/>
+Others: <br/>
+Others:   
+													
+Others: <input type="submit" value="Send"/>
+Others: 
+												
+Others: </p>
+Others: 
+											
+Others: </form>
+Others: 
+										
+Others: </td>
+Others: 
+									
+Others: </tr>
+Others: 
+								
+Others: </table>
+Others: 
+								
+Others: <table border="0" width="100%" bgcolor="#ffdddd" cellspacing="0" cellpadding="10">
+Others: 
+									
+Others: <tr>
+Others: 
+										
+Others: <td width="100%" class="dark">
+Others: 
+											
+	
+Others: <h3>
+Others: Et pysty kirjautumaan sisään vaikka tunnus ja salasana on oikein?
+Others: </h3>
+Others: 
+
+
+Others: <p>
+Others: 1. Yleisin syy on että tunnus tai salasana kirjoitetaan hieman väärin, isot ja pienet kirjaimet pitää mennä oikein samoin kaikki erikoismerkit.
+Others: </p>
+Others: 
+	
+
+Others: <p>
+Others: 2. Ehkä nettiselaimessasi ei hyväksy evästeitä. Katso nettiselaimen asetuksista että evästeet (=cookies) hyväksytään.
+Others: </p>
+Others: 
+	
+
+Others: <p>
+Others: 3. Internetselaimesi muistaa ehkä vanhan version sivuista. Pidä pohjassa Ctrl näppäintä ja samalla paina pari kertaa F5 näppäintä, tämä lataa sivun väkisin uudelleen.
+Others: </p>
+Others: 
+    
+
+Others: <p>
+Others: 4. Poista internetselaimen asetuksista kaikki evästeet JA tyhjennä välimuisti (=cache) JA selainhistoria, tämä toiminto saattaa löytyä yksityisyysasetuksista.
+Others: </p>
+Others: 
+	
+
+Others: <p>
+Others: 5. Ehkä nettiselaimesi muistaa vanhoja salasanoja ja siinä on jotain mustia pallukoita syöttöruuduissa jo valmiina ennenkuin kirjoitat omasi, muista poistaa ne ensin että syöttöruutu on tyhjä kun aloitat.
+Others: </p>
+Others: 
+	
+
+Others: <p>
+Others: 6. Jos tietoturvaohjelmisto on hurjan tiukalle säädetty niin se voi aiheuttaa ongelmia (harvinaista).
+Others: </p>
+Others: 
+
+
+Others: <p>
+Others: 7. Jos copypastella kopioit tunnuksen ja salasanan saattaa hiiri kopioida jotain välilyöntejä tms mukaan, kokeile myös naputella noi tiedot itse.
+Others: </p>
+Others: 
+	
+
+Others: <p>
+Others: 8. Kannattaa myös kokeilla toista nettiselainta (googlaa itsellesi Firefox tai Chrome). Älä asentele selaimeen kaikenlaisia lisäosia, ne heikentää selaimen toimintaa.
+Others: </p>
+Others: 
+	
+										
+Others: </td>
+Others: 
+									
+Others: </tr>
+Others: 
+								
+Others: </table>
+Others: 
+							
+Others: </td>
+Others: 
+						
+Others: </tr>
+Others: 
+					
+Others: </table>
+Others: 
+					
+Others: <p>
+Others: hu: /treffit/
+Others: </p>
+Others: <table border="0" width="90%" cellspacing="0" cellpadding="5">
+Others: <tr>
+Others: <td valign="MIDDLE" align="CENTER">
+Others:  
+
+
+Others: <form action="search.php" method="post">
+Others: 
+
+
+	
+Others: <table border="0" cellspacing="0" cellpadding="5">
+Others:    
+Others: <tr>
+Others:   
+Others: <td>
+Others: 
+	
+Others: <input name="searchword" size="30" style="FONT-SIZE: 10pt"/>
+Others:  
+Others: </td>
+Others: 
+	
+Others: <td>
+Others: <input type="submit" value="Etsi" name="do_search" style="FONT-SIZE: 10pt"/>
+Others:  
+Others: </td>
+Others: 
+	
+Others: <td>
+Others:   Kategoriasta:  
+Others: </td>
+Others: <td>
+Others: <select style="FONT-SIZE: 8pt" size="1" name="catid">
+Others: 
+
+Others: <option value="0" selected="selected">
+Others: Kaikki kategoriat
+Others: </option>
+Others: 
+
+Others: <option value="32">
+Others: Edustusseuraa (ei seksiä)
+Others: </option>
+Others: <option value="30">
+Others: Fetishit ja eriteleikit
+Others: </option>
+Others: <option value="26">
+Others: Hierontaa (ei seksiä)
+Others: </option>
+Others: <option value="34">
+Others: Matkaseuraa
+Others: </option>
+Others: <option value="17">
+Others: Mies etsii miestä
+Others: </option>
+Others: <option value="16">
+Others: Mies etsii naista
+Others: </option>
+Others: <option value="18">
+Others: Mies etsii paria
+Others: </option>
+Others: <option value="33">
+Others: Muu sopimaton (ei seksiä)
+Others: </option>
+Others: <option value="14">
+Others: Nainen etsii miestä
+Others: </option>
+Others: <option value="2">
+Others: Nainen etsii naista
+Others: </option>
+Others: <option value="15">
+Others: Nainen etsii paria
+Others: </option>
+Others: <option value="20">
+Others: Pari etsii miestä
+Others: </option>
+Others: <option value="19">
+Others: Pari etsii naista
+Others: </option>
+Others: <option value="21">
+Others: Pari etsii paria
+Others: </option>
+Others: <option value="29">
+Others: PuhelinSeksiä
+Others: </option>
+Others: <option value="5">
+Others: S/M, bondage, orja
+Others: </option>
+Others: <option value="27">
+Others: Striptease / show
+Others: </option>
+Others: <option value="25">
+Others: Trans / shemale
+Others: </option>
+Others: <option value="4">
+Others: Vaatteita / alkkareita
+Others: </option>
+Others: <option value="24">
+Others: Valokuvaajia / malleja
+Others: </option>
+Others: <option value="7">
+Others: Videoita / Valokuvia
+Others: </option>
+Others: <option value="28">
+Others: Webkamerat
+Others: </option>
+Others: </select>
+Others: 
+
+	 
+Others: </td>
+Others:     
+Others: </tr>
+Others:                         
+	
+Others: </table>
+Others: 
+
+Others: </form>
+Others: 
+
+
+Others: </td>
+Others: </tr>
+Others: </table>
+Others: 
+
+
+
+
+
+Others: <table border="0" width="90%" cellspacing="0" cellpadding="6">
+Others: 
+
+Others: <tr>
+Others: 
+
+Others: <td align="center" bgcolor="#330000">
+Others: 
+      			                   
+
+
+Others: <a href="/treffit/index.php">
+Others: ETUSIVU
+Others: </a>
+Others: 
+  
+Others: <img src="kuvat/valkoinen_nelio_3x3.gif" width="3" height="3" align="ABSMIDDLE">
+Others:   
+
+Others: <a href="/treffit/picturebrowse.php">
+Others: Kuvat
+Others: </a>
+Others: 
+  
+Others: <img src="kuvat/valkoinen_nelio_3x3.gif" width="3" height="3" align="ABSMIDDLE">
+Others:   
+
+Others: <a href="/treffit/latestads.php?aidot=1">
+Others: Uudet
+Others: </a>
+Others:  
+  
+Others: <img src="kuvat/valkoinen_nelio_3x3.gif" width="3" height="3" align="ABSMIDDLE">
+Others:   
+
+Others: <a href="mostviewed.php">
+Others: Katsotuin
+Others: </a>
+Others: 
+
+  
+Others: <img src="kuvat/valkoinen_nelio_3x3.gif" width="3" height="3" align="ABSMIDDLE">
+Others:   
+
+Others: <a href="/treffit/fav.php">
+Others: Suosikit
+Others: </a>
+Others:  
+  
+Others: <img src="kuvat/valkoinen_nelio_3x3.gif" width="3" height="3" align="ABSMIDDLE">
+Others:   
+
+Others: <a href="/treffit/search.php">
+Others: Etsi
+Others: </a>
+Others: 
+
+				
+
+Others: </td>
+Others: 
+
+Others: </tr>
+Others: 
+
+Others: <tr>
+Others: 
+
+Others: <td align="center" bgcolor="#660000">
+Others: 
+
+
+
+Others: <a href="/puhelinseksi.php" class="kortti">
+Others: Puhelinseksi
+Others: </a>
+Others: 
+	 
+Others: <img src="kuvat/valkoinen_nelio_3x3.gif" width="3" height="3" align="ABSMIDDLE">
+Others:  
+
+	
+Others: <a href="/sivukartta.php" class="kortti">
+Others: Sivuston sisältö
+Others: </a>
+Others: 
+	 
+Others: <img src="kuvat/valkoinen_nelio_3x3.gif" width="3" height="3" align="ABSMIDDLE">
+Others:  
+
+	
+Others: <a href="/erotiikka-linkit.php" class="kortti">
+Others: Linkkisivu
+Others: </a>
+Others: 
+	 
+Others: <img src="kuvat/valkoinen_nelio_3x3.gif" width="3" height="3" align="ABSMIDDLE">
+Others:  
+
+	
+Others: <a href="/yksilonsuoja.php" class="kortti">
+Others: Yksityisyys
+Others: </a>
+Others: 
+	 
+Others: <img src="kuvat/valkoinen_nelio_3x3.gif" width="3" height="3" align="ABSMIDDLE">
+Others:  
+
+	
+Others: <a href="/hakemisto.php" class="kortti">
+Others: Seksiseuraa
+Others: </a>
+Others:         
+
+Others: </td>
+Others: 
+
+Others: </tr>
+Others: 
+
+Others: </table>
+Others: 
+
+
+
+
+Others: <!-- alempi vaalean sininen poikkiviiva -->
+Others: 
+
+
+
+Others: <p>
+Others:  
+Others: </p>
+Others: 
+
+
+
+Others: <!-- Tähän loppuu koko ohjelma-->
+Others: 
+
+Others: </td>
+Others:  
+
+Others: </tr>
+Others:  
+
+Others: </table>
+Others:  
+
+
+
+Others: </center>
+Others: 
+
+
+
+Others: <center>
+Others: 
+
+Others: <table border="0" cellpadding="10" cellspacing="0" width="1024" class="footer_table">
+Others: 
+
+Others: <tr>
+Others: 
+
+Others: <td class="footer_td">
+Others: 
+
+
+Others: <p>
+Others: Yhteydenotot ja vikailmoitukset: 
+Others: <a href="mailto:webmaster@seksitreffit.fi" class="orange">
+Others: webmaster@seksitreffit.fi
+Others: </a>
+Others: </p>
+Others: 
+
+Others: <p>
+Others: Palvelun: 
+Others: <a href="/kayttoehdot/" target="_blank" class="orange">
+Others: käyttöehdot ja henkilörekisteri
+Others: </a>
+Others:  
+Others: </p>
+Others: 
+
+Others: <p>
+Others: Suomen kuumimmat 
+Others: <a href="/" class="orange">
+Others: seksitreffit
+Others: </a>
+Others:  ja seksiseuran haku 
+Others: </p>
+Others: 
+
+Others: <p>
+Others: © Seksitreffit 2003-2023
+Others: </p>
+Others: 
+
+
+Others: <p style="text-align:middle;">
+Others: Sivu luotu: 27.3.2023 klo 14:45:20
+Others: </p>
+Others: 
+
+Others: </td>
+Others: 
+
+Others: </tr>
+Others: 
+
+Others: </table>
+Others: 
+
+Others: </center>
+Others: 
+
+
+Script Token: <script type="text/javascript">
+Others: <!--
+EXd=document;location.protocol=="https:"?EXp="https":EXp="http";EXs="src";
+EXd.write("<img "+EXs+"="+EXp+"://nht-2.extreme-dm.com/n2.g?login=treffiil",
+"&d="+screen.width+"x"+screen.height+"&auto=y&pid=memb",
+"&jv="+navigator.javaEnabled()+"&c="+screen.colorDepth+"",
+"&l="+escape(EXd.referrer)+" width=0 height=0>");//-->
+
+Script Token: </script>
+Others: <noscript>
+Others: <img height="1" width="1" alt=""
+src="http://nht-2.extreme-dm.com/n2.g?login=treffiil&amp;auto=y&amp;pid=memb">
+
+Others: </noscript>
+Others: 
+
+Others: <br/>
+Others: stats: memb
+
+
+
+
+
+
+Others: <br/>
+Others: is f
+Others: <br/>
+Others: BR: brns_ok=1 -- BN: bnnd_ok2
+Others: <br/>
+Others: 0.006 loadtime 14:45:20
+Others: <br/>
+Others: 
+
+Others: </body>
+Others: </html>
+Others: 
+
+
+
+
+
+
+
+
+
+EOF

@@ -1,0 +1,179 @@
+/* CSS Document */
+
+body  { background-color: #333333; 
+		margin: 0px;
+	/*	padding: 0px; */
+}
+
+.hidden { 
+	display: none; 
+}
+
+
+
+
+
+
+a.dda { background-color:#000000; 
+	line-height:22px; 	
+	font-weight:normal;
+	font-size: 14px;
+	text-decoration: none;
+	
+	/* font-family:Verdana, sans-serif; */
+ }
+
+a.dda:hover { color:orange;  text-decoration: underline; }
+
+a.dd1:hover { color:orange;  text-decoration: underline; }
+a.dd2:hover { color:orange;  text-decoration: underline; }
+a.dd3:hover { color:orange;  text-decoration: underline; }
+a.dd4:hover { color:orange;  text-decoration: underline; }
+a.dd5:hover { color:orange;  text-decoration: underline; }
+a.dd6:hover { color:orange;  text-decoration: underline; }
+a.dd7:hover { color:orange;  text-decoration: underline; }
+a.dd8:hover { color:orange;  text-decoration: underline; }
+a.dd1:hover { color:orange;  text-decoration: underline; }
+
+
+
+/* ylälinkki fontit EI ehkä enää käytössä */ 
+
+.dd1,.dd2,.dd3,.dd4,.dd5,.dd6,.dd7,.dd8,.dd9 { 
+	
+	font-weight:bold;
+	font-size: 13px;
+	font-family:Verdana, sans-serif;
+	text-decoration: none;
+	
+}
+
+ul.ul_1 ul.ul_2 {
+    padding: 3px;
+	list-style: none; 
+	margin: 3px; 
+	background-color:#000000; 
+}
+
+
+li.dd {
+	list-style:none;
+}
+
+
+#category-menu ul {
+    list-style: none;
+    margin: 0px;
+}
+
+#category-menu>ul>li {
+    margin-top: 1em;
+}
+
+#category-menu>ul>li:first-child {
+    margin-top: 0;
+}
+
+#category-menu>ul>li>a {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#category-menu ul {
+    padding: 8px;
+}
+
+#category-menu ul ul {
+    padding: 0px;
+}
+
+
+
+/* vanhaa?? */
+/*
+.h2012pos  { position: relative; left:0px; top:-25px; width: 1024px; margin: 0 auto; text-align: left;  } 
+.logo_ylalinkit { position:absolute; left:2px; top:2px;}
+
+.m-col-1 { position:absolute; left:180px;  text-align:left; z-index:10; }
+.m-col-2 { position:absolute; left:260px;  text-align:left;  z-index:10; }
+.m-col-3 { position:absolute; left:333px; text-align:left; z-index:10;  }
+.m-col-4 { position:absolute; left:427px;  text-align:left; z-index:10;  }
+.m-col-5 { position:absolute; left:500px; text-align:left;  z-index:10; }
+.m-col-6 { position:absolute; left:590px;  text-align:left;  z-index:10; }
+.m-col-7 { position:absolute; left:669px; text-align:left;  z-index:10; }
+.m-col-8 { position:absolute; left:758px;  text-align:left; z-index:10;  }
+.m-col-9 { position:absolute; left:865px;  text-align:left;  z-index:10; }
+*/
+
+
+/* ylävalikon sijoittelu */
+
+/* .h2013pos  { position: relative; left:-10px; top:-32px; width: 1024px; margin: 0 auto; text-align: left;  } */
+.h2013pos  { clear:both; float:left; position: relative; left:-10px; top:-32px; width: 1024px; margin: 0 auto; text-align: left;  } 
+
+.m-col-10 { position:absolute; left:0px;  text-align:left;  z-index:20; }
+.m-col-11 { position:absolute; left:180px;  text-align:left;  z-index:10; }
+
+
+/* .yla_logo { position:relative; left:10px; top:5px; z-index:9; background-color:#CCFF00;  width:160px;} */
+.yla_logo { clear:both; float:left; position:relative; left:10px; top:5px; z-index:9; background-color:#CCFF00;  width:160px;}
+
+/* .yla_linkit { position:relative; left:70px; top:-10px;color:red; } */
+/* .yla_linkit { clear:both; float:left; position:relative; left:225px; top:-10px;color:red; } */
+.yla_linkit { clear:both; float:left; position:relative; left:200px; top:-10px;color:red; }
+
+.yla_lippu { position:absolute; left:965px; top:0px; z-index:9; background-color:#ffffff;  width:45px;}
+.yla_droppi { position:absolute; left:100px; top:100px;  }
+
+
+/* kortti linkit */
+
+a.otsikko_eots {        color:orange; text-decoration: none; font-weight:bold;  }
+a.otsikko_eots:link {        color:orange; text-decoration: none; font-weight:bold;  }
+a.otsikko_eots:visited {     color:orange; text-decoration: none; font-weight:bold;  }
+a.otsikko_eots:hover {       text-decoration: underline; }
+
+a.kortti {        color:orange; text-decoration: none;  font-weight:normal; }
+a.kortti:link {        color:orange; text-decoration: none;  font-weight:normal;  }
+a.kortti:visited {     color:orange; text-decoration: none;  font-weight:normal;  }
+a.kortti:hover {     color:#ffffff;   text-decoration: underline; }
+
+
+/* viimeisimmät keskustelulinkit */
+a.topanyf:link   { color:orange; text-decoration: none; }
+a.topanyf:visited  { color:orange; text-decoration: none; }
+a.topanyf:hover  { color:white; text-decoration: underline; }
+
+
+/* td { background-color:#011D35; } */
+
+
+
+.footer_table { background-color: black; }
+td.footer_td p { color:#666666; text-align:center; margin: 5px 5px 5px 5px;}
+
+.footer_td { background-color: black; }
+
+
+
+ 
+.pulautin div    { color:white; font-size: 12px; }
+
+.pulautin div a:link   { color:orange; text-decoration: none;  font-size: 12px; }
+.pulautin div a:visited  { color:orange; text-decoration: none; font-size: 12px; }
+.pulautin div a:hover  { color:white; text-decoration: underline; font-size: 12px; }
+
+
+/*
+div nh_staat { color:white; font-weight:bold; font-size: 12px; line-height:18px; font-family:Verdana, sans-serif; text-decoration: none; }
+div a.nh_staat { color:white; font-weight:bold; font-size: 12px; line-height:18px; font-family:Verdana, sans-serif; text-decoration: none; }
+div a.nh_staat:link { color:white; font-weight:bold; font-size: 12px; line-height:18px; font-family:Verdana, sans-serif; text-decoration: none; }
+div a.nh_staat:visited { color:white; font-weight:bold; font-size: 12px; line-height:18px; font-family:Verdana, sans-serif; text-decoration: none; }
+*/
+
+div nh_staat, div a.nh_staat, div a.nh_staat:link, div a.nh_staat:visited { color:white; font-weight:bold; font-size: 14px; line-height:18px; font-family:Arial, sans-serif; text-decoration: none; }
+
+div a.nh_staat:hover { color:orange;  text-decoration: underline; }
+
+.muut_linkit { background-color:#333333; padding:2px;border-color:#CC0000; border-width:1px; border-style:solid; }
+
