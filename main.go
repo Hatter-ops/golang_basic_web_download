@@ -19,7 +19,7 @@ var BASE_URL string
 
 func main() {
 
-	BASE_URL = ""
+	BASE_URL = "https://www.xamk.fi/"
 
 	make_dirs(BASE_URL)
 
@@ -31,8 +31,6 @@ func main() {
 
 	var buf bytes.Buffer
 	tee_body := io.TeeReader(resp.Body, &buf)
-
-	make_index(tee_body)
 
 	for _, j := range parse_link_func(&buf) {
 		css_url := make_url(j)
@@ -88,7 +86,7 @@ func main() {
 		fmt.Println("Downloading ", file_path, "From: ", script_url)
 		content_to_file(css_file, file_path)
 	}
-
+	make_index(tee_body)
 }
 
 func make_dirs(base_url string) {
@@ -206,11 +204,53 @@ func make_url(passed_url string) string {
 
 func make_index(index io.Reader) {
 
-	bytes, err := io.ReadAll(index)
+	//bytes, err := io.ReadAll(index)
+
+	doc, err := goquery.NewDocumentFromReader(index)
 
 	if err != nil {
 		fmt.Println(err)
 	}
+
+	fmt.Println(doc)
+	doc.Find("img").Each(func(i int, s *goquery.Selection) {
+		val, _ := s.Attr("src")
+		file_name_parse, err := url.Parse(val)
+		if err != nil {
+			fmt.Println(err)
+		}
+		file_url_path := file_name_parse.Path
+		file_name_split := strings.Split(file_url_path, "/")
+		file_name := file_name_split[len(file_name_split)-1]
+		file_path := path.Join("/images", file_name)
+		s.SetAttr("src", file_path)
+	})
+
+	doc.Find("css").Each(func(i int, s *goquery.Selection) {
+		val, _ := s.Attr("href")
+		file_name_parse, err := url.Parse(val)
+		if err != nil {
+			fmt.Println(err)
+		}
+		file_url_path := file_name_parse.Path
+		file_name_split := strings.Split(file_url_path, "/")
+		file_name := file_name_split[len(file_name_split)-1]
+		file_path := path.Join("/css", file_name)
+		s.SetAttr("src", file_path)
+	})
+
+	doc.Find("script").Each(func(i int, s *goquery.Selection) {
+		val, _ := s.Attr("src")
+		file_name_parse, err := url.Parse(val)
+		if err != nil {
+			fmt.Println(err)
+		}
+		file_url_path := file_name_parse.Path
+		file_name_split := strings.Split(file_url_path, "/")
+		file_name := file_name_split[len(file_name_split)-1]
+		file_path := path.Join("/javascript", file_name)
+		s.SetAttr("src", file_path)
+	})
 
 	file, err := os.Create("./index.html")
 
@@ -218,7 +258,13 @@ func make_index(index io.Reader) {
 		fmt.Println(err)
 	}
 
-	file.Write(bytes)
+	ht, err := doc.Html()
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	file.WriteString(ht)
 
 }
 
