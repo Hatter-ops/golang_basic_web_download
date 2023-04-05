@@ -1,0 +1,133 @@
+@media (min-width: 768px) {
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 0px;
+}
+
+a.navbar-brand {
+    padding-bottom: 35px;
+}
+
+.navbar {
+    width: 150px;
+    height: 100%;
+}
+
+    .navbar .form-control {
+        width: 150px !important;
+    }
+    
+.navbar .container {
+    width: 150px;
+}
+.navbar .col-sm-12 {
+    padding: 0;
+}
+.navbar-nav>li {
+    width: 100%;
+}
+
+.navbar-nav>li>.dropdown-menu {
+    top: 0px;
+    left: 150px;
+}
+
+.navbar-right~.navbar-right {
+    margin-right: 0px;
+}
+
+body {
+    margin-left: 150px;
+    padding-top: 0px !important;
+    padding-bottom: 30px !important;
+}
+#body:not(.chatisoff) {
+    max-width:100%;
+    width:100%;
+}
+
+.chatpaneli {
+   margin-top: 0px;
+}
+
+#search_box {
+    width: 150px !important;
+}
+
+.navbar-right .nopadding {
+    padding: 15px 0px !important;
+    margin-right: 15px !important;
+}
+
+.smallertop:not(.cookiecheck) {
+    background: inherit;   
+}
+    
+.cookiecheck .navbar-right {
+        float: inherit !important;
+}
+.nav .input-group {
+    display: block;
+}
+.nav .input-group .input-group-btn {
+        display: inline;
+}
+    
+.navbar-right.nopadding #login {
+    padding: 0px 0px!important;
+    margin-right: 0px!important;
+}
+
+.navbar-right.col-lg-5 {
+   width: 150px;
+    margin-bottom: 10px;
+}
+.navbar-right .dropdown-menu {
+   left: 150px;
+}
+    
+body .smallertop ul:first-child {
+    padding-top: 0px  !important;
+}
+    
+.halfsize-wider > li {
+    width: 50%;
+}
+    
+.halfsize-wider li:nth-child(odd) .dropdown-menu {
+    left: 75px;
+}
+    
+.navbar-right .dropdown-menu {
+   left: 150px;
+}
+   
+.hide-wider {
+    display: none !important;
+}
+
+    
+body .navbar-inverse .navbar-nav>li>a {
+        padding: 5px !important;
+}
+        
+body .navbar-inverse .navbar-nav>li>a img {
+    margin-top: -5px !important;
+    height: 30px !important;
+}
+    
+    body .smallertop ul:first-child {
+            margin-top: 50px;
+        padding-top: 30px;
+    } 
+    
+    body .smallertop ul:first-child>li:last-child {
+             position: relative;
+    top: 0px;
+    }    
+    body .smallertop ul:nth-child(2) {
+            position: absolute;
+            top: 0px;
+    }
+    
+}

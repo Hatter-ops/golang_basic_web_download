@@ -1,0 +1,72 @@
+.dropdown-menu,
+.modal-content,
+.panel,
+.list-group-item {
+    background-color: rgba(50,50,50,0.9);
+}
+html,
+body {
+    
+    background: #A4B357;
+    background-image: url('https://cdn.randomi.fi/src/bgs/leop2.jpg');
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+.nav-pills>li>a {
+    color: #cc6d1b
+}
+body a {
+    color: #ebc5a4
+}
+.nav-pills>li {
+    background: rgba(180, 171, 163, 0.9)
+}
+body .navbar-inverse .navbar-nav>li>a:hover,
+body .nav-pills .active a:hover,
+body .btn-info:hover,
+body a.list-group-item.active:hover {
+    background-color: #522c0b
+}
+body .smallertop {
+    background-color: #a35716
+}
+body .btn-info,
+body a.list-group-item.active,
+body .nav-pills .active a,
+body .navbar-orange {
+    background-color: #CC6D1B
+}
+body .panel,
+body .btn-info,
+body .btn-info:hover,
+body a.list-group-item.active,
+body .navbar-orange {
+    border-color: #a35716;
+}
+.dropdown-menu a {
+    color: #333;
+}
+.panel-default>.panel-heading {
+    background-color: #d68a49;
+}
+.blogTitle,
+a.list-group-item.active,
+body .navbar-orange .navbar-nav>li>a,
+.panel-default>.panel-heading,
+body .nav-pills .active a,
+.btn-info {
+    color: #ffffff;
+}
+@media (max-width: 767px) {
+    .navbar-offcanvas {
+        left: -250px;
+    }
+}
+
+.oldline:nth-child(even) {
+  background: #4A3C29;
+}
+
+body .dropdown-menu.notifi a {
+      color: #eee;  
+}

@@ -1,0 +1,137 @@
+<!DOCTYPE html><html><head>
+	<title>Sign in</title>
+	<meta charset="utf-8"/>
+	<meta http-equiv="x-ua-compatible" content="ie=10"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="stylesheet" href="css/hrd.css"/>
+	<!--[if IE 8]><script src="https://cdn.odc.officeapps.live.com/odc/stat/html5shiv.min.js?b=16326.30550"></script><![endif]-->
+</head>
+<body>
+	<div class="background">
+		<div class="blur"></div>
+		<div class="full"></div>
+	</div>
+	<div class="outer">
+		<div class="middle">
+			<main class="inner" style="display: none;">
+				<div class="margin-bottom-20" aria-hidden="true">
+					<picture class="logo margin-bottom-16">
+						<source srcset="https://cdn.odc.officeapps.live.com/odc/stat/images/hrd/microsoft_logo.svg?b=16326.30550"/>
+						<img src="images/microsoft_logo.png" alt="Microsoft Logo" data-bind="attr: {alt: config.text.microsoftLogo}"/>
+					</picture>
+				</div>
+				
+				<!-- ko ifnot: showSplitter -->
+				<div id="placeholder">
+					<h1 class="row text-title margin-bottom-16" data-bind="text: config.text.header">Sign in</h1>
+					<!-- ko if: context -->
+					<div class="row text-body margin-bottom-12 margin-top-12" data-bind="html: context">
+						<span>Choose the account you&#39;d like to use to open </span><a>Test</a><span>.</span>
+					</div>
+					<!-- /ko -->
+					<div class="alert alert-error text-body margin-bottom-12 col-md-12" role="alert" aria-live="assertive" aria-atomic="true" data-bind="html: error"></div>
+					<div class="row margin-bottom-16">
+						<div class="form-group col-md-12 placeholderContainer">
+							<input type="email" class="form-control" placeholder="Email or phone" aria-required="true" spellcheck="false" autocomplete="off" data-bind="
+                                    hasFocus: focus,
+                                    textInput: email,
+                                    attr: {&#39;placeholder&#39;: config.text.emailPlaceHolder, &#39;aria-invalid&#39;: !error}"/>
+							<!-- ko if: isRequestPending -->
+							<div class="progress" role="progressbar">
+								<div></div><div></div><div></div><div></div><div></div><div></div>
+							</div>
+							<!-- /ko -->
+							<!-- ko if: showPlaceholder -->
+							<div class="placeholderHost" aria-hidden="true" data-bind="click: function() { focus(true); }">
+								<div class="placeholder" style="cursor: text;" data-bind="visible: focus, text: config.text.emailPlaceHolder">
+									Email, phone, or Skype
+								</div>
+							</div>
+							<!-- /ko -->
+						</div>
+					</div>
+					<!-- ko if: showEnterProductKey -->
+					<div class="row margin-bottom-16">
+						<div class="col-md-12 text-secondary">
+							<a href="#" data-bind="text: config.text.enterProductKey, click: showPKD">Enter a product key instead</a>
+						</div>
+					</div>
+					<!-- /ko -->
+					<!-- ko if: showCreateAccount -->
+					<div class="row margin-bottom-20">
+						<div class="col-md-12 section text-secondary">
+							<span data-bind="text: config.text.noAccount" aria-hidden="true">No account?</span>
+							<a href="#" aria-label="Create a Microsoft account" data-bind="text: config.text.createAccount,
+                                attr: {&#39;aria-label&#39;: config.text.createAccountAria}, click: msAccountSignUp">Create one!</a>
+						</div>
+					</div>
+					<!-- /ko -->
+					<div class="row inline-block no-margin-top-bottom button-container">
+						<input type="submit" class="btn btn-block btn-primary" data-bind="value: config.text.linkNext, click: submit" value="Next"/>
+					</div>
+				</div>
+				<!-- /ko -->
+				
+				<!-- ko if: showSplitter -->
+				<div id="splitter">
+					<h1 class="row text-title margin-bottom-12" data-bind="text: config.text.pickAccount">Pick an account to continue</h1>
+					<div class="row text-body margin-bottom-12" data-bind="text: config.text.pickAccountDescription">
+						This email is used with more than one account from Microsoft. Which one do you want to use?
+					</div>
+					<div class="row text-body margin-bottom-12 picker" tabindex="1" role="option" data-bind="click: orgIdSignIn, attr: {&#39;data-idp&#39;: orgIdIdpParamValue}" onclick="Hrd.self.orgIdSignIn()">
+						<div class="col-xs-3 col-sm-2" aria-hidden="true" data-bind="css: {&#39;col-xs-push-9 col-sm-push-10&#39;: isRightToLeft}">
+							<picture class="logo">
+								<source srcset="https://cdn.odc.officeapps.live.com/odc/stat/images/hrd/picker-account-aad.svg?b=16326.30550"/>
+								<img src="images/picker-account-aad.png"/>
+							</picture>
+						</div>
+						<div class="col-xs-9 col-sm-10" data-bind="css: {&#39;col-xs-pull-3 col-sm-pull-2&#39;: isRightToLeft}">
+							<div data-bind="text: config.text.workAccount">Work or school account</div>
+							<div class="text-secondary" data-bind="text: config.text.workAccountDetails">Created by your IT department</div>
+						</div>
+					</div>
+					<div class="row text-body margin-bottom-12 picker" tabindex="0" role="option" data-bind="click: msAccountSignIn, attr: {&#39;data-idp&#39;: msAccountIdpParamValue}" onclick="Hrd.self.msAccountSignIn()">
+						<div class="col-xs-3 col-sm-2" aria-hidden="true" data-bind="css: {&#39;col-xs-push-9 col-sm-push-10&#39;: isRightToLeft}">
+							<picture class="logo">
+								<source srcset="https://cdn.odc.officeapps.live.com/odc/stat/images/hrd/picker-account-msa.svg?b=16326.30550"/>
+								<img src="images/picker-account-msa.png"/>
+							</picture>
+						</div>
+						<div class="col-xs-9 col-sm-10" data-bind="css: {&#39;col-xs-pull-3 col-sm-pull-2&#39;: isRightToLeft}">
+							<div data-bind="text: config.text.personalAccount">Personal account</div>
+							<div class="text-secondary" data-bind="text: config.text.personalAccountDetails">Created by you</div>
+						</div>
+					</div>
+					<div class="row text-body no-margin-top-bottom">
+						<span data-bind="text: config.text.tiredOfSeeingThis">Tired of seeing this?</span>
+						<a data-bind="text: config.text.renameYourAccount, attr: {&#39;data-url&#39;: config.links.renameYourAccount}" href="#">Rename your personal account</a>
+					</div>
+				</div>
+				<!-- /ko -->
+			</main>
+		</div>
+	</div>
+	<footer id="footer">
+		<div>
+			<div class="footerNode">
+				<span>©2023 Microsoft</span>
+				<a data-bind="text: config.text.privacyAndCookies, attr: {&#39;data-url&#39;: config.links.privacyAndCookies}" href="#">Privacy &amp; Cookies</a>
+			</div>
+		</div>
+	</footer>
+	<noscript>
+		Microsoft account requires JavaScript to sign in. This web browser either does not support JavaScript, or scripts are being blocked.<br />
+		<br />
+		To find out whether your browser supports JavaScript, or to allow scripts, see the browser's online help.
+	</noscript>
+	<script src="javascript/jquery-1.12.4.1.min.js"></script>
+	<script src="javascript/knockout-3.4.2.js"></script>
+	<script src="javascript/CommonDiagnostics.js"></script>
+	<script src="javascript/jsonstrings"></script>
+	<script src="javascript/hrd.min.js"></script>
+	<script src="javascript">
+		var EmailHrdPage = new Hrd({"correlationId":"da23bf27-2d8b-45d7-80dd-888a55d3220e","params":{"accelerated":false,"app":23,"minimalEmailValidation":false,"culture":"en-US","dir":"ltr","focus":true,"fpEnabled":false,"hm":0,"hostInterface":1,"idp":"","path":"/odc/v2.0/hrd","signInOrg":false,"ver":16},"services":{"getIdpUrl":"/odc/emailhrd/getidp","getIdpTimeout":20000,"getFederationProviderUrl":"/odc/emailhrd/getfederationprovider","getFederationProviderTimeOut":20000},"text":"","links":{"renameYourAccount":"https://go.microsoft.com/fwlink/?LinkID=733247","privacyAndCookies":"https://go.microsoft.com/fwlink/?LinkId=521839","termsOfUse":"https://go.microsoft.com/fwlink/?LinkId=521839"}}, OOUI);
+	</script>
+
+
+</body></html>
